@@ -1,0 +1,2 @@
+# GingerCat
+Simple landing page 
